@@ -2,18 +2,7 @@
 This project was undertaken as a part of the curriculum for 6th semester of B.Sc. Computer Science, Statistics and Mathematics under the Department of Mathematics, University Institute of Science, Chandigarh University.
 
 ## Absract
-In the fast evolving world of technology, artificial intelligence (AI) has become a
-very integral part of our daily lives. Using machine learning algorithms is a
-common practice to predict any sort of phenomenon which can be encapsulated in
-mathematical terms and equations, in order to improve quality of life. This project
-aims to introduce a quality of life shift in the paradigm of conventional teaching
-methods by empowering educators to step in when a student is prone to not
-perform well in any particular subject. By inputting various environmental and
-academic factors, an educator can identify and then take steps to ensure that each
-and every student under their care performs well in the subject. Students can also
-benefit from such a process, if allowed to view their own predicted performance,
-they can direct their time and resources in the right direction in order to understand
-the subject of concern.
+Artificial intelligence (AI), in the rapidly developing field of technology, is becoming an essential component of our everyday existence. In order to enhance quality of life, machine learning algorithms are frequently used to forecast any kind of phenomenon that can be expressed in mathematical words and equations. This project aims to empower teachers to intervene when a student is not performing well in a particular subject, so introducing a quality of life shift in the traditional model of conventional teaching approaches. An instructor can detect and take action to guarantee that every student in their care succeeds well in the subject by entering a variety of academic and environmental elements. If given the opportunity to see their own projected performance, students can also gain from this kind of approach since it helps them focus their time and resources appropriately to fully comprehend the material.
 
 ## Future work
 In order to fulfil the aims of providing educators and students with a proper tool for any given platform, an interface is planned to be created. This interface will be provided in a web based application, making seamless integration possible for anyone wishing to implement this study's findings on their own.
