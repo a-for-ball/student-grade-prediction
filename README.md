@@ -1,7 +1,7 @@
 # Student Grade Prediction
 This project was undertaken as a part of the curriculum for 6th semester of B.Sc. Computer Science, Statistics and Mathematics under the Department of Mathematics, University Institute of Science, Chandigarh University.
 
-# Absract
+## Absract
 In the fast evolving world of technology, artificial intelligence (AI) has become a
 very integral part of our daily lives. Using machine learning algorithms is a
 common practice to predict any sort of phenomenon which can be encapsulated in
@@ -14,3 +14,6 @@ and every student under their care performs well in the subject. Students can al
 benefit from such a process, if allowed to view their own predicted performance,
 they can direct their time and resources in the right direction in order to understand
 the subject of concern.
+
+## Future work
+In order to fulfil the aims of providing educators and students with a proper tool for any given platform, an interface is planned to be created. This interface will be provided in a web based application, making seamless integration possible for anyone wishing to implement this study's findings on their own.
